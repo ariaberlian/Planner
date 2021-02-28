@@ -1,0 +1,6 @@
+database, oop.
+oop, alstrukdat.
+alstrukdat, daspro.
+pengkom, kalkulus.
+daspro, pengkom.
+kalkulus.
